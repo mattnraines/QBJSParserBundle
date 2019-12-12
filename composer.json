@@ -1,5 +1,5 @@
 {
-  "name": "fourlabs/qbjs-parser-bundle",
+  "name": "mattnraines/qbjs-parser-bundle",
   "description": "This bundle is a Symfony wrapper for fourlabs/qbjs-parser.",
   "license": "MIT",
   "homepage": "https://github.com/fourlabsldn/QBJSParserBundle",
@@ -29,5 +29,8 @@
     "psr-4": {
       "FL\\QBJSParserBundle\\": ""
     }
+  },
+  "replace": {
+    "fourlabs/qbjs-parser-bundle": "1.0.2"
   }
 }
